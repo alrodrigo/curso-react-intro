@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding:0;
+    background: inherit;
+    font-family: fantasy;
+}
+body{
+    background-image: url(./llama3.jpg);
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
